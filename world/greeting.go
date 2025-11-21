@@ -1,4 +1,4 @@
-package world
+package greetings
 
 func Greet() string {
         return "World!"
