@@ -1,5 +1,5 @@
 package greetings
 
 func Greet() string {
-         return "Hello!"
+         return "Hello from dir greetings file greeting.go!"
 }
